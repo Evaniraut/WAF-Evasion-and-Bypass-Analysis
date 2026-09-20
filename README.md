@@ -76,7 +76,7 @@ Complete project documentation covering the methodology, testing process, findin
 
 ### Attack Demonstration
 
-[`Attack-Demonstration.pdf`](./Attack-Demonstration.pdf)
+[Attack Demonstration.pdf](./Attack%20Demonstration.pdf)
 
 Focused practical demonstration containing the reconnaissance, vulnerability validation, WAF blocking tests, XSS and SSRF bypass testing, and post-exploitation evidence.
 
